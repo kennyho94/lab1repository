@@ -15,5 +15,7 @@ namespace TestProject
         static void a() { }
 
         static void b() { }
+
+        static void c() { }
     }
 }
